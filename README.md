@@ -2,24 +2,13 @@
 
 ## Overview
 
-This project demonstrates the development of an **AI-powered Customer Support Agent** using **Zapier**, a no-code automation platform for building AI-driven workflows.
-
-The agent automates customer email handling by analyzing incoming messages, retrieving relevant information from a predefined knowledge base, understanding customer intent, and deciding the appropriate action based on its confidence level.
-
-The workflow combines **AI reasoning, knowledge retrieval, confidence-based decision making, and human-in-the-loop automation** to improve customer support efficiency while reducing the risk of inaccurate responses.
-
----
-
-## Problem Statement
-
 Customer support teams often spend significant time responding to repetitive inquiries such as product information, policies, FAQs, and service-related questions.
 
-This project aims to reduce manual workload by creating an AI agent capable of:
+This project aims to reduce manual workload by creating an **AI-powered Customer Support Agent** using **Zapier**, a no-code automation platform for building AI-driven workflows.
 
-- Understanding customer queries
-- Finding relevant information from trusted documents
-- Generating accurate responses
-- Escalating uncertain cases to humans
+The agent automates customer email handling by analyzing incoming mails, understanding customer queries, retrieving relevant information from a predefined knowledge base, understanding customer intent, deciding the appropriate action based on its confidence level and escalating uncertain cases to humans.
+
+The workflow combines **AI reasoning, knowledge retrieval, confidence-based decision making, and human-in-the-loop automation** to improve customer support efficiency while reducing the risk of inaccurate responses.
 
 ---
 
@@ -95,6 +84,3 @@ This AI agent can help organizations:
 ✅ Scale customer support operations efficiently  
 
 ---
-
-
-## Workflow Architecture
