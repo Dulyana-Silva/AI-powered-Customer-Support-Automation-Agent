@@ -6,9 +6,7 @@ Customer support teams often spend significant time responding to repetitive inq
 
 This project aims to reduce manual workload by creating an **AI-powered Customer Support Agent** using **Zapier**, a no-code automation platform for building AI-driven workflows.
 
-The agent automates customer email handling by analyzing incoming mails, understanding customer queries, retrieving relevant information from a predefined knowledge base, understanding customer intent, deciding the appropriate action based on its confidence level and escalating uncertain cases to humans.
-
-The workflow combines **AI reasoning, knowledge retrieval, confidence-based decision making, and human-in-the-loop automation** to improve customer support efficiency while reducing the risk of inaccurate responses.
+The agent automates customer email handling by analyzing incoming mails, understanding customer queries and intent, retrieving relevant information from a predefined knowledge base, deciding the appropriate action based on its confidence level and escalating uncertain cases to humans in order to improve customer support efficiency while reducing the risk of inaccurate responses.
 
 ---
 
@@ -26,7 +24,6 @@ The workflow combines **AI reasoning, knowledge retrieval, confidence-based deci
 ### 🧠 Intent Detection
 The AI agent identifies the purpose of customer emails, such as:
 
-- Product inquiries
 - Service-related questions
 - Policy-related requests
 - General support queries
@@ -36,12 +33,10 @@ The AI agent identifies the purpose of customer emails, such as:
 The agent evaluates its confidence before performing actions.
 
 **High Confidence**
-- Generates a Gmail reply draft
-- Allows human review before sending
+- Generates a Gmail reply draft to human review before sending
 
 **Low Confidence**
-- Escalates the issue through WhatsApp notification
-- Requests human intervention
+- Escalates the issue through WhatsApp notification for human intervention
 
 ### 👥 Human-in-the-Loop Automation
 
@@ -57,17 +52,12 @@ Instead of fully autonomous responses, the workflow maintains human oversight fo
 - **WhatsApp Integration**
 - **Google Drive Knowledge Base**
 - **Prompt Engineering**
-- **Retrieval-Augmented Generation (RAG) Concepts**
 
 ---
 
 ## Knowledge Base
 
-The AI agent uses documents stored in Google Drive, including:
-
-- Product/service brochures
-- Support guidelines
-- Policy documents
+The AI agent uses documents stored in Google Drive.
 
 These documents act as the agent's knowledge source to generate accurate and context-aware responses.
 
