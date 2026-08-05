@@ -10,6 +10,14 @@ The agent automates customer email handling by analyzing incoming mails, underst
 
 ---
 
+<img width="1536" height="808" alt="image" src="https://github.com/user-attachments/assets/7958aa0c-90e6-4bbd-9000-28dc058e63a2" />
+
+---
+
+<img width="1536" height="816" alt="image" src="https://github.com/user-attachments/assets/2f690c74-e1c3-430d-a280-9974cd8af2dc" />
+
+---
+
 ## Key Features
 
 ### 📩 Email Understanding
